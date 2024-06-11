@@ -1,6 +1,9 @@
 # João Pedro Marques
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FRudJr7YTreddit%2Fcomments%2Fwbc76x%2Fhacker_angolano%2F&psig=AOvVaw1TPXywsD2rcwTCg0S79AOP&ust=1718234912866000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiHuIDa1IYDFQAAAAAdAAAAABAJ)
+![Banner](https://github.com/xjoaopedrox/xjoaopedrox/assets/165079313/2a221c35-6317-4455-b9bf-8678a3624cb7)
+<a href="https://github.com/xjoaopedrox">
+    <img src="(https://github.com/xjoaopedrox/xjoaopedrox/assets/165079313/2a221c35-6317-4455-b9bf-8678a3624cb7)">
+</a>
 
 ## Sobre mim
 
@@ -22,25 +25,8 @@
 ### [Página de Jornal] (https://github.com/xjoaopedrox/Pagina_de_jornal.git)
 Repositório para a criação de uma página de jornal utilizando HTML, feito em grupo.
 
-       __                
-      /oo\
-     |    |            
- ^^  (vvvv)   ^^
- \\  /\__/\  //                                      
-  \\/      \//
-   /        \        
-  |          |    ^  
-  /          \___/ | 
- (            )     |
-  \----------/     /
-    //    \\_____/
-   W       W
-
-
-
-
-
-
+    
+      
 
 
 
