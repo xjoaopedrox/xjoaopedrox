@@ -13,16 +13,14 @@
 
 ## Habilidades
 
-- Programação em pseudocódigo
-- Algoritmos simples                                                                                                                                                                                                                                                       
-- Inglês (estudando)
-- Criação de repositórios no GitHub
-- Manipulação e persuasão
-- Investimentos em Bitcoin
+-Conhecimentos das Css
+-Conhecimentos de Html                                                                                                                                                                                                                                                  
+- Conhecimentos de tipografia
+- Conhecimentos de Colorimetria
 
 ## Projetos
 
-### [Página de Jornal] (https://github.com/xjoaopedrox/Pagina_de_jornal.git)
+### [Site de Partituras] (https://github.com/TeamRocket69/site)
 Repositório para a criação de uma página de jornal utilizando HTML, feito em grupo.
 
     
