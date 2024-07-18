@@ -1,10 +1,9 @@
-
+---
 
 # João Pedro Marques
 
-![Banner]
+![Banner](https://github.com/xjoaopedrox/xjoaopedrox/assets/165079313/2a221c35-6317-4455-b9bf-8678a3624cb7)
 <a href="https://github.com/xjoaopedrox">
-    <img src="https://github.com/xjoaopedrox/xjoaopedrox/assets/165079313/2a221c35-6317-4455-b9bf-8678a3624cb7">
 </a>
 
 ## Sobre mim
@@ -32,5 +31,5 @@ Adquiri habilidades essenciais em informática, como instalação, configuraçã
 ## Projetos
 
 ### [Site de Partituras](https://github.com/TeamRocket69/site)
-Repositório para a criação de uma página de partituras, feito em grupo.
+Repositório para a criação de um site de partituras, feito em grupo.
 
