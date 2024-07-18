@@ -2,7 +2,7 @@
 
 # João Pedro Marques
 
-![Banner](https://github.com/xjoaopedrox/xjoaopedrox/assets/165079313/2a221c35-6317-4455-b9bf-8678a3624cb7)
+![Banner]
 <a href="https://github.com/xjoaopedrox">
     <img src="https://github.com/xjoaopedrox/xjoaopedrox/assets/165079313/2a221c35-6317-4455-b9bf-8678a3624cb7">
 </a>
