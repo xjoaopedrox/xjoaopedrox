@@ -15,7 +15,7 @@
 
 Hello! I'm João Pedro, a Systems Development student passionate about technology, programming and software development.
 
-I'm currently expanding my knowledge in programming logic, web development and application development. I enjoy exploring new technologies, understanding how things work and turning ideas into projects.
+I'm currently expanding my knowledge in programming logic, web development, application development and infrastructure. I enjoy exploring new technologies, understanding how things work and turning ideas into projects.
 
 Outside of coding, I'm also interested in music, design and digital culture.
 
@@ -30,16 +30,26 @@ Outside of coding, I'm also interested in music, design and digital culture.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tools & Technologies**
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+**Technical Knowledge**
+
+- Containerization and Docker Compose
 - Responsive Web Design
+- Computer Networking: TCP/IP, DNS, HTTP/HTTPS and IP Addressing
+- Basic Network Security
+- LAN and Network Configuration
 - Hardware and Operating Systems
-- Basic Computer Networking
 
 ## Education
 
